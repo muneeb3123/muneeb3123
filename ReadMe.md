@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7569D&width=435&lines=I+learn+something+new+every+day.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7569D&width=435&lines=I+Am+Muneeb,+I+Am+full+Stack+Developer.)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=muneeb3123&color=green&style=flat-square)
 
-![Muneeb Rehman full stack web developer](https://user-images.githubusercontent.com/95459740/229638384-485cb9c3-fa19-4001-8006-b8944ae40783.png)
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 # 💫 About Me:
 🔭 I'm currently working on a React + Next.js application<br>👯 I'm looking to collaborate with individuals from diverse backgrounds and cultures all over the world, as it is crucial to effectively work with diverse teams.h<br>🌱 I’m currently learning Javascript.<br>⚡ Throughout my work experience as a developer, I have had the opportunity to collaborate with professionals from a wide variety of countries. Specifically, I have worked alongside colleagues from El Salvador, India, the USA, Nicaragua, China, Pakistan, Nigeria, the Netherlands, France, Canada, Mexico, Guatemala, Honduras, Argentina, Colombia, and Venezuela.<br>😊   I speak Urdu, English, and Punjabi. Additionally, I am learning Arabic.
@@ -20,11 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muneeb3123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb3123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=hafizabd4)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muneeb3123&icon=0&color=0)](https://visitcount.itsvg.in)
