@@ -4,8 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=muneeb3123&color=green&style=flat-square)
 
-### 😂 Random Dev Meme
-<img src="file:///home/muneeb/Downloads/Muneeb%20full%20stack%20web%20developer%20(1)/2.png" width="512px"/>
+<img src="https://drive.google.com/drive/folders/1VzOD95KXU7ANUoX3vjAhezq1WT4HEMCV" width="512px"/>
 
 
 # 💫 About Me:
