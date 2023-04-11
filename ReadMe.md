@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=muneeb3123&color=green&style=flat-square)
 
-<img src="https://drive.google.com/file/d/1NX3H56G67DSsMD78rZ-fMUVWkwobmukz/view?usp=sharing" width="512px"/>
+<img src="https://drive.google.com/file/d/1rB3mfFU2JR1srMBi8jANRs7MYylhakt9/view?usp=share_link" width="512px"/>
 
 
 # 💫 About Me:
