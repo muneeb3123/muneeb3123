@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=muneeb3123&color=green&style=flat-square)
 
-![Muneeb ur Rehman full stack web developer](https://drive.google.com/file/d/1rB3mfFU2JR1srMBi8jANRs7MYylhakt9/view?usp=sharing)
+![Muneeb ur Rehman full stack web developer](https://drive.google.com/file/d/1rB3mfFU2JR1srMBi8jANRs7MYylhakt9/view?usp=sharing&export=download)
 
 
 # 💫 About Me:
