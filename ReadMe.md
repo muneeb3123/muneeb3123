@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🗿;This+is+Muneeb....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<h5 align="center">
+  <code><a href="https://dashing-biscuit-056b6e.netlify.app" title="Portfolio"><img width="22" src="images/port.png"> Portfolio</a></code>
+  <code><a href="https://www.linkedin.com/in/muneeb-rehman-01b6bb193/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://twitter.com/Hafizabd4" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
+</h5>
 
 ![Muneeb ur Rehman full stack web developer](https://github.com/muneeb3123/Image/blob/main/2.png?raw=true)
 
