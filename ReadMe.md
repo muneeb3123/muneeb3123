@@ -44,6 +44,11 @@
   
   <br />
   <br />
+  <div align=center>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muneeb3123&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  </div>
+  <br />
+  <br />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb3123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   
