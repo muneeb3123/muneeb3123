@@ -30,30 +30,36 @@
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
-<div align="center">
+<p align=center>
+  <div align=center>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=muneeb3123&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  <br />
-  <br />
-  
-  <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 20px;">
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=muneeb3123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb3123&theme=dark&hide_border=false" alt="GitHub Streak Stats"  />
-    </div>
-    <div>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muneeb3123&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-    </div>
-  </div>
-  
-  <br />
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb3123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  
-</div>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=nxn404-n&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+  </div>
+  <br>
+
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 height=176 src="https://github-readme-streak-stats.herokuapp.com/?user=nxn404-n&theme=react&border=61dafb&hide_border=true" alt="nxn404-n" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 height=170 src="https://github-readme-stats.vercel.app/api?username=nxn404-n&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+
+  
+  <div align=center>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nxn404-n&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  </div>
+
+  <br>
+
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxn404-n&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+</p>
 
 
 
