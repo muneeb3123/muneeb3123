@@ -14,7 +14,26 @@
 
 
 # 💫 About Me:
-🔭 I'm currently working on a React + Next.js application<br>👯 I'm looking to collaborate with individuals from diverse backgrounds and cultures all over the world, as it is crucial to effectively work with diverse teams.h<br>🌱 I’m currently learning Javascript.<br>⚡ Throughout my work experience as a developer, I have had the opportunity to collaborate with professionals from a wide variety of countries. Specifically, I have worked alongside colleagues from El Salvador, India, the USA, Nicaragua, China, Pakistan, Nigeria, the Netherlands, France, Canada, Mexico, Guatemala, Honduras, Argentina, Colombia, and Venezuela.<br>😊   I speak Urdu, English, and Punjabi. Additionally, I am learning Arabic.
+<p align="center">
+  Hi, I'm Nafeur Rahman Adil, I'm a Full-stack Developer, and I'm looking for exciting job opportunities.
+  <br>
+  (*Available for hire*)
+  <br>
+  <br>
+  🔬 I'm currently studying for a bachelor's degree in English and in a web development bootcamp named Microverse.
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  🧩 I love solving coding problems
+  <br>
+  📚 I’m currently learning Javascript
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/nxn404-n/nxn404-n/issues" title="Issues">Here</a>
+  <br>
+  Here is my portfolio: <a href="https://nxn404-n.github.io/Portfolio-M1/">Portfolio</a>
+  <br>
+  📫 Here is my email: <a href="mailto: nafeurrahmanadil@gmail.com">nafeurrahmanadil@gmail.com</a>
+</p>
 
 
 ## 🌐 Socials:
