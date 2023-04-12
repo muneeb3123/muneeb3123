@@ -34,13 +34,11 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=muneeb3123&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
- 
-  
   <br />
   <br />
   
-  <div style="display: flex;">
-    <div style="min-width: 300px;">
+  <div style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
+    <div style="min-width: 300px; margin-right: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=muneeb3123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb3123&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
     </div>
@@ -55,6 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb3123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   
 </div>
+
 
 
 
