@@ -34,26 +34,35 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=muneeb3123&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
-
   <br />
   <br />
   
-  <div style="display: flex;">
-    <div>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=muneeb3123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb3123&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
     </div>
-    <div>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muneeb3123&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <div style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb3123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
     </div>
   </div>
   
   <br />
   <br />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb3123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb3123&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+    <img src="https://github.com/muneeb3123.png?size=100" alt="Contributor Image" />
+  </div>
+  
+  <br />
+  <br />
+  
+  <div align=center>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muneeb3123&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  </div>
   
 </div>
+
 
 
 
