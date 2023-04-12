@@ -1,6 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7569D&width=435&lines=Hello,+There!+🗿;This+is+Muneeb....;Nice+to+meet+you!&center=true&size=30)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=muneeb3123&color=green&style=flat-square)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🗿;This+is+Adil....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 ![Muneeb ur Rehman full stack web developer](https://github.com/muneeb3123/Image/blob/main/2.png?raw=true)
 
