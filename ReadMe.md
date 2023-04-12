@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7569D&width=435&lines=I+Am+Muneeb,+I+Am+full+Stack+-+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7569D&width=435&lines=Hello,+There!+🗿;This+is+Muneeb....;Nice+to+meet+you!&center=true&size=30)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=muneeb3123&color=green&style=flat-square)
 
