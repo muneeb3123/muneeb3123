@@ -38,15 +38,23 @@
   <br />
   
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=muneeb3123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb3123&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+    <img src="image1.jpg" alt="Image 1" />
+    <img src="image2.jpg" alt="Image 2" />
   </div>
   
   <br />
   <br />
-  <div align=center>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muneeb3123&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+  <div style="display: flex;">
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=muneeb3123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneeb3123&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+    </div>
+    <div>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muneeb3123&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    </div>
   </div>
+  
   <br />
   <br />
   
