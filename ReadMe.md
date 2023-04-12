@@ -37,11 +37,6 @@
   <br />
   <br />
   
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="image1.jpg" alt="Image 1" />
-    <img src="image2.jpg" alt="Image 2" />
-  </div>
-  
   <br />
   <br />
   
