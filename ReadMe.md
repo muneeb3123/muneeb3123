@@ -36,9 +36,7 @@
   
   <br />
   <br />
-  
-  <br />
-  <br />
+ 
   
   <div style="display: flex;">
     <div>
