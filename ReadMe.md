@@ -5,8 +5,8 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="https://dashing-biscuit-056b6e.netlify.app" title="Portfolio"><img width="22" src="https://w7.pngwing.com/pngs/763/460/png-transparent-computer-icons-portfolio-portfolio-miscellaneous-photography-orange.png"> Portfolio</a></code>
-  <code><a href="https://www.linkedin.com/in/muneb-ur-rehman-01b6bb193/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
+  <code><a href="muneeb-portfolio-dev.netlify.app/" title="Portfolio"><img width="22" src="https://w7.pngwing.com/pngs/763/460/png-transparent-computer-icons-portfolio-portfolio-miscellaneous-photography-orange.png"> Portfolio</a></code>
+  <code><a href="https://www.linkedin.com/in/muneebrehmandev/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
   <code><a href="https://twitter.com/Hafizabd4" title="Twitter Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"> Twitter</a></code>
 </h5>
 
